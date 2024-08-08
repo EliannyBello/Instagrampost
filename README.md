@@ -1,5 +1,5 @@
 # sitio web en funcionamiento
-para ver el resultado final {click aquí}(https://instagrampost-sigma.vercel.app/)
+para ver el resultado final [click aquí](https://instagrampost-sigma.vercel.app/)
 # HTML Hello
 
 The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
